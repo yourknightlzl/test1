@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 'd' in 'hello'",
+      "children" : [ {
+        "name" : "test_demo2",
+        "uid" : "68786636b014ed21",
+        "parentUid" : "bf726be13edbf88aaa8be109878f3382",
+        "status" : "failed",
+        "time" : {
+          "start" : 1621218790033,
+          "stop" : 1621218790034,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bf726be13edbf88aaa8be109878f3382"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
